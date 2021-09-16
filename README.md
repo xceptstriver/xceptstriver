@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[MyFlix](https://play.google.com/store/apps/details?id=com.aweseom_project)**
+- 🔭 I’m currently working on **[Moglix-app](https://play.google.com/store/apps/details?id=com.moglix.online&hl=en_IN&gl=US)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -55,10 +55,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/a-n-v-k-s-sai-2854a1148/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Sai_sathvikYS"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
 
 </p>
 

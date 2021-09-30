@@ -46,12 +46,22 @@
 
 <br/>
 
-## 👨‍💻 Experience:
+## 👨‍💻 Currently Working at :
 <a href="https://reactjs.org/" target="_blank"> <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/ff/07/e8/ff07e847-bea7-48e3-3f6b-a50fc31950a4/source/512x512bb.jpg" width="150" height="150"/> </a>
 
 
+## 🏅 Awards and Certifications :
 
-<p align="center">
+ ✔ I am a **[SIH-2018 Winner](https://www.sih.gov.in/pdf/past_events/Winners_2018SW.pdf)**
+ 
+ ✔ I sucessfully completed **[javascript Datastructures and Algorithms](https://www.freecodecamp.org/certification/xceptstriver/javascript-algorithms-and-data-structures)**
+ 
+ ✔ I sucessfully cleared HackerRank assessment for the skill **[Javascript(Basic)](https://www.hackerrank.com/certificates/f7fa897d7f7f)**
+ 
+ ✔ I am a Coursera certified **[git professional](https://coursera.org/share/7178790806454a7b57d039236155ae9d)**
+ 
+ 
+ <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>

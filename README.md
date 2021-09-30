@@ -47,7 +47,7 @@
 <br/>
 
 ## 👨‍💻 Experience:
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="100" height="100"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="150" height="150"/> </a>
 
 
 

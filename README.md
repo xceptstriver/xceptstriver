@@ -28,6 +28,7 @@
     <a href="https://kotlinlang.org/docs/home.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
     <a href="https://developer.android.com/docs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a>
     <a href="https://play.google.com/store/apps/details?id=com.aweseom_project" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-play.png"/> </a>
+    <a href="https://www.apple.com/in/store" target="_blank"> <img src="<img src="https://img.icons8.com/ios/50/000000/mac-os--v1.png"/>"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 

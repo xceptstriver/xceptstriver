@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-<img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
+
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/xceptstriver)**
 
 - 📫 How to reach me **a.n.v.k.s.sai@gmail.com**
